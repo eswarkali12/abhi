@@ -12,7 +12,7 @@ public class PrimeCheck {
     }
 
     public static void main(String[] args) {
-        int number = 29;
+        int number = 28;
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
         } else {
