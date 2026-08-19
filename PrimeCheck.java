@@ -20,3 +20,8 @@ public class PrimeCheck {
         }
     }
 }
+jhafaf
+    ajsfhg
+    jshfg
+    jsahfg
+    
