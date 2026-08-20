@@ -19,9 +19,13 @@ public class PrimeCheck {
             System.out.println(number + " is not a prime number.");
         }
     }
-}
-jhafaf
-    ajsfhg
-    jshfg
-    jsahfg
-    
+}hgv\
+    gvhgv
+    jvuv
+    hghgvh
+    hgvhgv
+    hgvhgv
+    hhgv
+    hvhjh
+    jgvghv
+    this is last line ods code
