@@ -21,3 +21,9 @@ public class PrimeCheck {
     }
 }
 this is last line of ocde
+this is last line of ocde
+this is last line of ocde
+this is last line of ocde
+this is last line of ocde
+this is last line of ocde
+this is last line of ocde
